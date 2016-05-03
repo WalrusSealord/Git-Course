@@ -10,7 +10,7 @@ To use this application,
 
 ## Bugs and Issues
 
-Have a bug or an issue with this theme? [Open a new issue](https://github.com/WalrusSealord/Treval-Reservation-Service/issues) here on GitHub or leave a comment on the Blog at BWS.com/blog
+Have a bug or an issue with this theme? [Open a new issue](https://github.com/WalrusSealord/Travel-Reservation-Service/issues) here on GitHub or leave a comment on the Blog at BWS.com/blog
 
 ## Creator
 
