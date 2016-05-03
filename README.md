@@ -1,6 +1,6 @@
 # [Travel Reservation Service](http://startbootstrap.com/) 
 
-[Travel Reservation Service] is a booking website built on Metor and Iron-Router. 
+[Travel Reservation Service] is a booking website built on Meteor and Iron-Router. 
 
 ## Getting Started
 
