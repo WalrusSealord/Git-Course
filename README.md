@@ -1,16 +1,16 @@
-# [Travel Reservation Service](http://startbootstrap.com/) 
+# [Travel Reservation Service](http://startbootstrap.com/)
 
-[Travel Reservation Service] is a booking website built on Meteor and Iron-Router. 
+[Travel Reservation Service] is a booking website built on Meteor and Iron-Router.
 
 ## Getting Started
 
-To use this application,  
+To use this application,
 
 * Fork this repository on GitHub
 
 ## Bugs and Issues
 
-Have a bug or an issue with this theme? [Open a new issue](https://github.com/WalrusSealord/Treval-Reservation-Service/issues) here on GitHub or leave a comment on the Blog at BWS.com/blog
+Have a bug or an issue with this application? [Open a new issue](https://github.com/WalrusSealord/Treval-Reservation-Service/issues) here on GitHub or leave a comment on the Blog at BWS.com/blog
 
 ## Creator
 
