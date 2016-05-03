@@ -101,11 +101,12 @@ hr {
     float: none;
     margin: 0 auto 0;
 }
-
+.copyright {
+  color: #fff;
+}
 footer {
-
-    background: #dff;
-    background: rgba(208,255,255,0.9);
+    background: #01e;
+    background: rgba(0,16,236,0.9);
 }
 
 footer p {
