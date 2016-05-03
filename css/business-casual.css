@@ -115,6 +115,7 @@ footer p {
 }
 #footerText{
   color: #0510df;
+  font-size: 2em;
 }
 
 @media screen and (min-width:768px) {
