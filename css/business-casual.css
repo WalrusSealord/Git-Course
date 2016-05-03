@@ -187,6 +187,9 @@ footer p {
         table-layout: fixed;
         font-size: 1.25em;
     }
+    #footerText {
+      font-size: 1.5em;
+    }
 }
 
 @media screen and (min-width:1200px) {
@@ -194,5 +197,8 @@ footer p {
         content: '';
         display: table;
         clear: both;
+    }
+    #footerText {
+      font-size: 0.8em;
     }
 }
