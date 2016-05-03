@@ -115,7 +115,7 @@ footer p {
 }
 #footerText{
   color: #0510df;
-  font-size: 2em;
+  font-size: 1.5em;
 }
 
 @media screen and (min-width:768px) {
@@ -188,7 +188,8 @@ footer p {
         font-size: 1.25em;
     }
     #footerText {
-      font-size: 1.5em;
+      color #fff;
+      font-size: 1.3em;
     }
 }
 
@@ -199,6 +200,6 @@ footer p {
         clear: both;
     }
     #footerText {
-      font-size: 0.8em;
+      font-size: 1.1em;
     }
 }
